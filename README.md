@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/carol-obura/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Carol0128">
+  <a href="https://github.com/oburacarol">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://twitter.com/_obura_">

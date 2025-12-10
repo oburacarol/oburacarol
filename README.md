@@ -52,6 +52,7 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 ## :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oburacarol&layout=compact&theme=vision-friendly-dark&count-private=true)](https://github.com/oburacarol/github-readme-stats)
+[![Obura's GitHub stats](https://github-readme-stats.vercel.app/api?username=oburacarol)](https://github.com/oburacarol/github-readme-stats)
 
 
 ---

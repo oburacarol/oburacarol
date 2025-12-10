@@ -10,9 +10,7 @@
   <a href="https://github.com/oburacarol">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://twitter.com/_obura_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 
 ---
@@ -26,6 +24,8 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 
 
 ## 🛠 Tech Stack:
+
+Well-versed but not limited to:
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-%25252300f?logo=MySQL&color=white)
@@ -51,18 +51,22 @@ I'm open to remote/hybrid data roles, as well as collaborations on data science 
 
 ## :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oburacarol&layout=compact&theme=vision-friendly-dark&count-private=true)](https://github.com/oburacarol/github-readme-stats)
-[![Obura's GitHub stats](https://github-readme-stats.vercel.app/api?username=oburacarol)](https://github.com/oburacarol/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oburacarol&layout=compact&theme=vision-friendly-dark&count-private=true)](https://github.com/oburacarol/github-readme-stats)
+
+[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=oburacarol&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)](https://github.com/oburacarol/github-readme-stats)
+
+
+
+
 
 
 ---
-### Connect With Me
+### Let's Connect 🔗
 <div>
  <a href="https://www.linkedin.com/in/carol-obura/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp&nbsp;
- <a href="https://twitter.com/_obura_">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
+  
   </a>
 </div>
 

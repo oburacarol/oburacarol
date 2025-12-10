@@ -17,10 +17,17 @@
 
 ## Hi there 👋, I'm [Carol Obura](https://www.linkedin.com/in/carol-obura/)
 
-I am a data scientist with a strong passion for machine learning, constantly seeking new opportunities to apply my skills and explore the latest technologies in the field. With experience in statistical analysis, data visualization, and predictive modeling, I am dedicated to leveraging data-driven insights to solve real world challenges and drive success.
+Currently working on some cool stuff at the intersection of causal inference and machine learning 💡.
 
+My academic background spans from pure statistics (undergrad) to biostatistics (Msc). Professionally worked as a data scientist, exploring and applying everything it entails; data cleaning, EDA, modeling, and deploying some of the solutions as microservices. I am dedicated to leveraging data-driven insights to solve real-world challenges and drive success in any way possible.
 
-I'm open to remote/hybrid data roles, as well as collaborations on data science and machine learning related projects and challenges.
+.
+
+.
+
+Open to collaborations on projects related to causal machine learning or machine learning in general ✉️.
+
+Always experimenting, always learning 👩‍💻.
 
 
 ## 🛠 Tech Stack:
